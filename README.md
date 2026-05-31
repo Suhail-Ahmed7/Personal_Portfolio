@@ -1,10 +1,13 @@
 # 🚀 3D Developer Portfolio Website (React + TypeScript + Three.js)
 
+<!-- Preview video (stored in this repo) -->
+<video src="./screen-capture%20(13).webm" controls muted playsinline style="max-width: 100%; border-radius: 12px;"></video>
+
 A modern, high-performance **3D developer portfolio website** built with **React**, **TypeScript**, **Three.js**, **GSAP**, and **WebGL**.
 
 If you’re a developer looking for a **portfolio template** that feels premium, interactive, and memorable—this repo is for you.
 
-> Live preview: **redoyanulhaque.me**
+> Live preview: https://www.redoyanulhaque.me/
 
 ---
 
@@ -15,12 +18,6 @@ If you’re a developer looking for a **portfolio template** that feels premium,
 - Modern **React + TypeScript** codebase
 - Fast, responsive UI (desktop + mobile)
 - Designed for developers, engineers, programmers, and creators
-
----
-
-## 🔗 Demo
-
-- Portfolio preview: https://www.redoyanulhaque.me/
 
 ---
 
@@ -72,8 +69,6 @@ Typical things you’ll want to update:
 - **Social links** (GitHub, LinkedIn, email)
 - **SEO meta title/description**
 
-If you tell me which framework you use for routing/build (Vite, Next.js, CRA), I can point you to the exact files to edit.
-
 ---
 
 ## ⭐ Support
@@ -89,6 +84,14 @@ If you found this useful:
 ## 🤝 Connect
 
 - LinkedIn: https://www.linkedin.com/in/red1-for-hek/
+
+---
+
+## 🏷️ Recommended GitHub Topics (add in repo settings)
+
+Add these topics to improve GitHub search visibility:
+
+`portfolio` `developer-portfolio` `portfolio-website` `portfolio-template` `3d-portfolio` `react` `typescript` `threejs` `webgl` `gsap` `frontend` `vite`
 
 ---
 
