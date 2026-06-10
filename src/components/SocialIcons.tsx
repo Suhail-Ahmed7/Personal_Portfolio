@@ -2,7 +2,6 @@ import {
   FaGithub,
   FaInstagram,
   FaLinkedinIn,
-  FaXTwitter,
 } from "react-icons/fa6";
 import "./styles/SocialIcons.css";
 import { TbNotes } from "react-icons/tb";
@@ -11,6 +10,15 @@ import HoverLinks from "./HoverLinks";
 import { config } from "../config";
 
 const SocialIcons = () => {
+  const handleResumeDownload = () => {
+    const link = document.createElement("a");
+    link.href = "/Suhail_Ahmed.pdf";
+    link.download = "Suhail_Ahmed.pdf";
+    document.body.appendChild(link);
+    link.click();
+    document.body.removeChild(link);
+  };
+
   useEffect(() => {
     const social = document.getElementById("social") as HTMLElement;
 
@@ -71,17 +79,12 @@ const SocialIcons = () => {
           </a>
         </span>
         <span>
-          <a href={config.contact.twitter} target="_blank" rel="noopener noreferrer">
-            <FaXTwitter />
-          </a>
-        </span>
-        <span>
           <a href={config.contact.instagram} target="_blank" rel="noopener noreferrer">
             <FaInstagram />
           </a>
         </span>
       </div>
-      <a className="resume-button" href="#">
+      <a className="resume-button" onClick={handleResumeDownload} style={{ cursor: "pointer" }}>
         <HoverLinks text="RESUME" />
         <span>
           <TbNotes />

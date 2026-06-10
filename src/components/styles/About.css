@@ -32,6 +32,14 @@
   word-spacing: 2px;
 }
 
+.about-para {
+  font-size: 20px;
+  font-weight: 600;
+  line-height: 26px;
+  letter-spacing: 0.5px;
+  word-spacing: 2px;
+}
+
 .about-me .split-word {
   display: inline-block;
   margin-right: 0.3em;

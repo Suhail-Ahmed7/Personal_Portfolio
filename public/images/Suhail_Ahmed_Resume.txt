@@ -1,0 +1,89 @@
+SUHAIL AHMED
+AI & Full-Stack Developer | Pakistan
+Email: suhailbhand7@gmail.com | GitHub: github.com/Suhail-Ahmed7 | LinkedIn: linkedin.com/in/suhail-ahmed7
+
+---
+
+PROFESSIONAL SUMMARY
+AI & Full-Stack Developer with expertise in Machine Learning, Deep Learning, NLP, and Full-Stack Web Development. 
+Passionate about building intelligent systems, autonomous agents, and modern web applications.
+
+---
+
+TECHNICAL SKILLS
+Programming Languages: Python, JavaScript, TypeScript
+AI/ML: TensorFlow, PyTorch, Keras, OpenCV, Scikit-Learn, NLP, Deep Learning, LLMs, AI Agents
+Frontend: React, Next.js, TailwindCSS, Three.js, GSAP
+Backend: Node.js, Express.js, FastAPI
+Databases: MongoDB, PostgreSQL
+Tools: Git, Docker, REST APIs, Automation
+
+---
+
+WORK EXPERIENCE
+
+AI & Full-Stack Developer | Freelance & Self-Employed | 2024 - Present
+• Building AI-powered chatbots and conversational agents using LLMs and transformers
+• Developing machine learning models with TensorFlow and PyTorch
+• Creating full-stack web applications with React and Node.js
+• Implementing computer vision and NLP solutions
+• Building autonomous AI systems and automation tools
+
+Full-Stack Developer | Personal Projects | 2024
+• Developed complete web applications from frontend to backend
+• Built responsive UIs with React and RESTful APIs with Node.js
+• Implemented MongoDB database solutions
+• Deployed and maintained web applications
+
+---
+
+PROJECTS
+
+Smart Document Verification System (FYP)
+• AI-powered admission assistance platform with OCR and Computer Vision
+• Technologies: React.js, Node.js, FastAPI, MongoDB, Python, EasyOCR, LLMs, RAG
+• Extracted and analyzed information from uploaded documents using ML
+
+AI-Powered Code Reviewer
+• Full-stack platform analyzing source code with intelligent feedback
+• Technologies: React.js, Express.js, MongoDB, Gemini API, Node.js
+• Automatic programming language detection and code improvement suggestions
+
+MovieExplorer (CineSphere)
+• Android movie discovery application with TMDB API integration
+• Technologies: Kotlin, Jetpack Compose, TMDB API, Android Studio
+• User authentication and local data persistence features
+
+Event Tracker
+• Full-stack event management application with secure authentication
+• Technologies: React.js, Node.js, Express.js, MongoDB, JWT, bcrypt, TailwindCSS
+• Implemented user signup/login and CRUD operations for events
+
+AI Heart Disease Analysis
+• AI models for heart disease prediction using clinical and imaging data
+• Technologies: Python, TensorFlow, Keras, OpenCV, NumPy, Pandas
+• Built MLP classifier and U-Net medical image processing pipeline
+
+Real-Time Pothole Detection using YOLOv8
+• Real-time pothole detection system with computer vision
+• Technologies: Python, PyTorch, YOLOv8, OpenCV, Albumentations
+• Evaluated model performance across YOLOv8 variants with precision/recall metrics
+
+---
+
+EDUCATION & CERTIFICATIONS
+Self-Taught Developer with continuous learning in AI, ML, and Full-Stack Development
+
+---
+
+LANGUAGES
+English (Fluent)
+
+---
+
+LOCATION
+Pakistan, Sukkur
+
+---
+
+Generated on: 2026-06-10
